@@ -1,0 +1,4 @@
+在ear包中的WebContent/WEB-INF/jboss-web.xml中配置
+<jboss-web>
+	 <context-root>/</context-root>
+</jboss-web>
